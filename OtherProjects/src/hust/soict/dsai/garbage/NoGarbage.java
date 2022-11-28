@@ -6,7 +6,7 @@ import java.nio.file.Paths;
 
 public class NoGarbage {
 	public static void main(String[] args) throws IOException {
-		String filename = "test.txt";
+		String filename = "D:\LapTrinhHuongDT\TH\OtherProjects\src\hust\soict\dsai\garbage\\text.txt";
 		byte[] inputBytes = {0};
 		long startTime, endTime;
 		
